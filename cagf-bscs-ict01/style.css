@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blanchedalmond;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color: darkgrey;
+    height: 2.8em;
+
+}
+.navbar li{
+    display: inline-block;
+    padding: 8px;
+    margin: 4px;
+    transition: 0.5s;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.new{
+    padding-left: 4.2em;
+}
+.navbar li:hover{
+    background-color: lightsalmon;
+}
+.title{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 32px;
+}
