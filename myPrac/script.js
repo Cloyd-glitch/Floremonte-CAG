@@ -26,7 +26,7 @@ window.addEventListener("load", function() {
 
 
 document.getElementById("button-start").addEventListener("click", function() {
-    window.location.href = "album.html"; 
+    window.location.href = "section.html"; 
   });
 
   function openInNewTab() {
